@@ -19,16 +19,13 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:origin/dareen" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dareen" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffd78a61-614e-4fbf-8130-6a0cda0dde85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ffd78a61-614e-4fbf-8130-6a0cda0dde85" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,7 +185,7 @@
       <updated>1604251055752</updated>
       <workItem from="1604251057581" duration="302000" />
       <workItem from="1604253173400" duration="3956000" />
-      <workItem from="1604335845588" duration="10110000" />
+      <workItem from="1604335845588" duration="10662000" />
     </task>
     <servers />
   </component>
@@ -206,7 +203,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/dareen" />
+                        <option value="dareen" />
                       </list>
                     </value>
                   </entry>
