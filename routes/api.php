@@ -4,6 +4,7 @@ use App\Http\Controllers\FirstTaskController;
 use App\Http\Controllers\HttpController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\AssignmentController;
 
 /*
 |--------------------------------------------------------------------------
@@ -29,4 +30,11 @@ Route::get('/http/task', [HttpController::class, 'task']);
 
 Route::get('/http/task/even', [FirstTaskController::class, 'evenTaskApi']);
 
+
+
+Route::prefix('assignments/v1')->group(function () {
+
+});
+
+Route::get('evenize', [AssignmentController::class, 'evenize']);
 
