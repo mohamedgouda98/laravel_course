@@ -12,6 +12,28 @@ class CreateClientsTable extends Migration
      * @return void
      */
 
+
+    /**
+     * students :
+     * ----------------------------------------
+     * id | name | age | school_id | class_id
+     * ----------------------------------------
+     * schools:
+     * -------------
+     * id | name
+     * -------------
+     * class:
+     * -----------------------
+     * id | name | school_id
+     * -----------------------
+     */
+
+
+
+
+
+
+
     /**
      * ----------------------------------------------
      * id | name | job | age | city | phone | phone_2
@@ -24,9 +46,10 @@ class CreateClientsTable extends Migration
             $table->string('name');
             $table->string('job');
             $table->integer('age');
-            $table->string('city');
-            $table->string('phone');
-            $table->string('phone_2');
+
+            $table->bigInteger('city_id')->unsigned();
+            $table->foreign('city_id')->references('id')->on('cities')->onDelete('cascade');
+
             $table->timestamps();
         });
     }

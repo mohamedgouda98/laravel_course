@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bluepen/.idea/bluepen.iml" filepath="$PROJECT_DIR$/../bluepen/.idea/bluepen.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/laravelCpurse.iml" filepath="$PROJECT_DIR$/.idea/laravelCpurse.iml" />
       <module fileurl="file://$PROJECT_DIR$/../mnst/.idea/mnst.iml" filepath="$PROJECT_DIR$/../mnst/.idea/mnst.iml" />
     </modules>
