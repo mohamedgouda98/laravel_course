@@ -25,7 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffd78a61-614e-4fbf-8130-6a0cda0dde85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/resources/views/Tasks/evenTask.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/viewPage.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mnst/database/migrations/2020_11_01_135131_delete_from_orders.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mnst/database/migrations/2020_11_01_135626_add_to_orders.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Eljazera_Shining-V2.zip" beforeDir="false" />
@@ -126,10 +126,8 @@
       <change beforePath="$PROJECT_DIR$/../ieee-sha-project/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../ieee-sha-project/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ieee-sha-project/resources/views/welcome.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ieee-sha-project/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ieee-sha-project/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HttpController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HttpController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mnst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mnst/app/Http/Controllers/api/OrderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/app/Http/Controllers/api/OrderController.php" afterDir="false" />

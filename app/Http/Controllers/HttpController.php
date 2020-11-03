@@ -60,6 +60,11 @@ class HttpController extends Controller
 
 
 
+    public function viewPage(){
+//        return view('viewPage');
+
+        return redirect(route('even_task'));
+    }
 
 
 

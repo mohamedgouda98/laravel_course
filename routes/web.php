@@ -23,4 +23,6 @@ Route::get('/', function () {
 Route::get('http/data/{status}', [HttpController::class, 'data']);
 
 
-Route::get('http/even', [FirstTaskController::class, 'evenTask']);
+Route::get('http/even', [FirstTaskController::class, 'evenTask'])->name('even_task');
+
+Route::get('http/view', [HttpController::class, 'viewPage'])->name('view_page');
