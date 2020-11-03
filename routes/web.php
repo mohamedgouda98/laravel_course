@@ -1,5 +1,7 @@
 <?php
 
+use App\Http\Controllers\FirstTaskController;
+use App\Http\Controllers\HttpController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,3 +18,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('http/data/{status}', [HttpController::class, 'data']);
+
+
+Route::get('http/even', [FirstTaskController::class, 'evenTask']);
