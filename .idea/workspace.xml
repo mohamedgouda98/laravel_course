@@ -25,6 +25,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffd78a61-614e-4fbf-8130-6a0cda0dde85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/Tasks/evenTask.blade.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mnst/database/migrations/2020_11_01_135131_delete_from_orders.php" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../mnst/database/migrations/2020_11_01_135626_add_to_orders.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Eljazera_Shining-V2.zip" beforeDir="false" />
@@ -125,13 +126,18 @@
       <change beforePath="$PROJECT_DIR$/../ieee-sha-project/resources/sass/app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/../ieee-sha-project/resources/sass/app.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ieee-sha-project/resources/views/welcome.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../ieee-sha-project/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/../ieee-sha-project/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mnst/.idea/mnst.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/.idea/mnst.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mnst/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mnst/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HttpController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HttpController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mnst/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mnst/app/Http/Controllers/api/OrderController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/app/Http/Controllers/api/OrderController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mnst/app/Http/Interfaces/OrderInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/app/Http/Interfaces/OrderInterface.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mnst/app/Http/Repositories/OrderRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/app/Http/Repositories/OrderRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnst/app/Http/Repositories/UserRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/app/Http/Repositories/UserRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnst/app/Http/Repositories/adminRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/app/Http/Repositories/adminRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mnst/app/Models/card.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/app/Models/card.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mnst/database/migrations/2020_09_27_114310_create_orders_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/database/migrations/2020_09_27_114310_create_orders_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../mnst/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/../mnst/routes/api.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../panda" beforeDir="false" afterPath="$PROJECT_DIR$/../panda" afterDir="false" />
@@ -146,12 +152,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -275,6 +281,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/Tasks" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner scope="XML" />
@@ -290,6 +301,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604251055752</updated>
       <workItem from="1604251057581" duration="5095000" />
+      <workItem from="1604420674822" duration="2668000" />
     </task>
     <servers />
   </component>
@@ -306,5 +318,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

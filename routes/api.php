@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\FirstTaskController;
 use App\Http\Controllers\HttpController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
@@ -21,7 +22,11 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
 
 
 
+Route::get('/http/data', [HttpController::class, 'data']);
 
-Route::get('/http/data/{status}', [HttpController::class, 'data']);
+Route::get('/http/task', [HttpController::class, 'task']);
+
+
+Route::get('/http/task/even', [FirstTaskController::class, 'evenTaskApi']);
 
 
