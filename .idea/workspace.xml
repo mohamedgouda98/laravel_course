@@ -25,7 +25,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ffd78a61-614e-4fbf-8130-6a0cda0dde85" name="Default Changelist" comment="" />
+    <list default="true" id="ffd78a61-614e-4fbf-8130-6a0cda0dde85" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +188,9 @@
       <updated>1604251055752</updated>
       <workItem from="1604251057581" duration="302000" />
       <workItem from="1604253173400" duration="3956000" />
-      <workItem from="1604335845588" duration="10662000" />
+      <workItem from="1604335845588" duration="11560000" />
+      <workItem from="1604420225520" duration="5483000" />
+      <workItem from="1604663246137" duration="918000" />
     </task>
     <servers />
   </component>
