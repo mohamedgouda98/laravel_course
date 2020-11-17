@@ -26,8 +26,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffd78a61-614e-4fbf-8130-6a0cda0dde85" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/StudentController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,13 +162,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project/OOP" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="tasks" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\laravel_course\resources\views" />
       <recent name="C:\xampp\htdocs\laravel_course" />
     </key>
   </component>
@@ -190,7 +194,9 @@
       <workItem from="1604253173400" duration="3956000" />
       <workItem from="1604335845588" duration="11560000" />
       <workItem from="1604420225520" duration="5483000" />
-      <workItem from="1604663246137" duration="918000" />
+      <workItem from="1604663246137" duration="4845000" />
+      <workItem from="1604675286223" duration="906000" />
+      <workItem from="1605371450983" duration="4671000" />
     </task>
     <servers />
   </component>
@@ -235,6 +241,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="542" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1604254004630" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605390394965">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605390394965" />
     <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604314774181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
